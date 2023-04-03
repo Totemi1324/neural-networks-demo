@@ -1,0 +1,3 @@
+# Defines prerequisites for the example notebooks to run properly - do not edit.
+
+tensorflow==1.15.5

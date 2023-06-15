@@ -10,7 +10,11 @@ There are two ways to get the Jupyter notebooks running:
 
 Open this [link](https://mybinder.org/v2/gh/Totemi1324/neural-networks-demo/HEAD) to get a fully set-up environment in your browser.
 
-## 2. Execute locally
+## 2. Launch with Google Colab
+
+Clone the repo to your local machine, visit [Google Colab](https://colab.research.google.com/) and upload the notebook files to execute them in a browser environment.
+
+## 3. Execute locally
 
 If you have Python and a suitable IDE installed, just clone the repo and install the required packages with `pip`:
 
